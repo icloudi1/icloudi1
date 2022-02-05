@@ -1,2 +1,2 @@
 icloudi1 Project
-Pyothn + R + SAS	
+This folder to put R script for general purspose 
